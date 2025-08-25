@@ -4,6 +4,13 @@ A data-driven solution for **real-time banking fraud detection** and risk monito
 
 ---
 
+## 📸 Dashboard Preview
+
+Here's a snapshot of the HR Analytics Dashboard built in Power BI:
+
+![img alt](https://github.com/abhiishek04/Hr_Analytics_Dashboard/blob/main/Screenshot%202025-08-18%20194356.png?raw=true)
+
+
 ## 📌 Problem Statement
 Rising financial fraud leads to billions in losses. Manual fraud detection is slow and inefficient, and banks require automated systems to minimize risk and financial loss.  
 This project analyzes transaction patterns, identifies high-risk segments, and builds predictive models to detect fraudulent activities in real time.
