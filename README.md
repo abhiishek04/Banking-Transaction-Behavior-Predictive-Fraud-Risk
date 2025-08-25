@@ -10,6 +10,12 @@ Here's a snapshot of the Banking Fraud Insights & Risk Monitoring Dashboard buil
 
 ![img alt](https://github.com/abhiishek04/Banking-Transaction-Behavior-Predictive-Fraud-Risk/blob/main/Dahboard_Preview.png)
 
+---
+
+## Presentation Slides
+https://github.com/abhiishek04/Banking-Transaction-Behavior-Predictive-Fraud-Risk/blob/main/Fraud_Detection_Presentation.pptx
+
+---
 
 ## 📌 Problem Statement
 Rising financial fraud leads to billions in losses. Manual fraud detection is slow and inefficient, and banks require automated systems to minimize risk and financial loss.  
@@ -121,8 +127,7 @@ This project combines **data engineering, predictive modeling, and dashboards** 
 ---
 
 ## 📬 Contact & Resources
-- ![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) **GitHub:** Project repo & issues  
+- ![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) **GitHub:** https://github.com/abhiishek04/Banking-Transaction-Behavior-Predictive-Fraud-Risk/tree/main
 - 📧 **Email:** info.abhisheksingh004@gmail.com  
 - 💼 **LinkedIn:** [Abhishek Singh](https://www.linkedin.com/in/abhishek-singh-50506329a/)  
-- 📊 **Reference Dashboard & Code:** https://github.com/abhiishek04/Banking-Transaction-Behavior-Predictive-Fraud-Risk/tree/main
 ---
