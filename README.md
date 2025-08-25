@@ -6,7 +6,7 @@ A data-driven solution for **real-time banking fraud detection** and risk monito
 
 ## 📸 Dashboard Preview
 
-Here's a snapshot of the HR Analytics Dashboard built in Power BI:
+Here's a snapshot of the Banking Fraud Insights & Risk Monitoring Dashboard built in Power BI:
 
 ![img alt](https://github.com/abhiishek04/Banking-Transaction-Behavior-Predictive-Fraud-Risk/blob/main/Dahboard_Preview.png)
 
